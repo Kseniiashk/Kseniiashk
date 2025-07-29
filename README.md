@@ -1,3 +1,5 @@
+**AI Developer | Competitive Programmer | HSE Data Science Student**
+
 # About Me:
 
 - 🎓 Bachelor’s student in **Data Science** at HSE University, specializing in AI and competitive programming.  
@@ -33,7 +35,7 @@
 **ML/Data Science**  
 - [x] **Basic ML**
 - [x] **GANs** (EfficientNetBS, TensorFlow)  
-- [x] **Diffusion models*
+- [x] **Diffusion models**
 - [x] **NLP**
 - [x] **RAG Pipelines**  
 - [x] **XGBoost/LightGBM**
@@ -43,11 +45,6 @@
 🏆 **All-Russian School Olympiad in Informatics** (Winner, 2024)  
 🥈 **Open Programming Olympiad** (Prizewinner, 2023-24)  
 🎯 **Finalist**, All-Russian AI Olympiad (2023)  
-
----
-
-## GitHub Stats:  
-
 
 ---
 
