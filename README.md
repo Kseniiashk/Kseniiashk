@@ -1,4 +1,4 @@
-## **AI Developer | Competitive Programmer | HSE Data Science Student**
+# **AI Developer | Competitive Programmer | HSE Data Science Student**
 
 # About Me:
 
