@@ -2,7 +2,7 @@
 
 # About Me:
 
-- 🎓 Bachelor’s student in **Data Science** at HSE University, specializing in AI and competitive programming.  
+- 🎓 Bachelor’s student in **Data Science** at HSE University.  
 - ☺️ **Winner** of multiple national Olympiads in Informatics (All-Russian 2024, Open Olympiad 2023-24) and **finalist** in All-Russian AI Olympiad.  
 
 ---
