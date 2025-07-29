@@ -26,7 +26,7 @@
 ## Tech Stack:  
 **Languages & Tools**  
 - [x] **Python** (PyTorch, TensorFlow, NLP)  
-- [x] **C++** (Competitive Programming)  
+- [x] **C++** 
 - [x] **SQL** (MySQL, HeidiSQL)  
 - [x] **Docker**  
 - [x] **Git**
