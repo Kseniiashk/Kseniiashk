@@ -18,7 +18,7 @@
 - Preprocessed text data and deployed infrastructure via **Docker**.  
 
 ### DoorHan  
-**PHP Programmer** (Jun 2023–Mar 2025)  
+**PHP Programmer** (Jun 2023–Jun 2024 and Aug 2024-Mar 2025)  
 - Full-stack development (PHP, JavaScript, MySQL) for custom web solutions.  
 
 ---
