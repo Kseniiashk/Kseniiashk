@@ -1,54 +1,77 @@
-# **AI Developer | Competitive Programmer | HSE Data Science Student**
+# Kseniia Shkuleva
 
-# About Me:
-
-- 🎓 Bachelor’s student in **Data Science** at HSE University.  
-- ☺️ **Winner** of multiple national Olympiads in Informatics (All-Russian 2024, Open Olympiad 2023-24) and **finalist** in All-Russian AI Olympiad.  
+ML Engineer at T-Bank · Data Scientist · Yandex School of Data Analysis (ML track)  
+Codeforces Master (max 2228) · Winner of the All-Russian Informatics Olympiad
 
 ---
 
-## Work Experience:
-### T-Bank  
-**RAG Developer Intern** (Mar–Jul 2025)  
-- Built NLP-powered RAG pipelines with **FastAPI**, hybrid search, and Docker-optimized cloud deployment.  
-- Developed metrics to evaluate chatbot response quality.  
+## About
 
-**ML Developer Intern** (Jun–Aug 2024)  
-- Automated Telegram bot interactions using clustering models (PyTorch, Scikit-learn).  
-- Preprocessed text data and deployed infrastructure via **Docker**.  
-
-### DoorHan  
-**PHP Programmer** (Jun 2023–Jun 2024 and Aug 2024-Mar 2025)  
-- Full-stack development (PHP, JavaScript, MySQL) for custom web solutions.  
+Building and shipping production ML on a platform serving millions of users —
+classification, recommendations, uplift / causal modeling, A/B experiments.
+Strong background in math, algorithms, and competitive programming.
+Interested in high-frequency, low-latency ML systems and applied research.
 
 ---
 
-## Tech Stack:  
-**Languages & Tools**  
-- [x] **Python** (PyTorch, TensorFlow, NLP)  
-- [x] **C++** 
-- [x] **SQL** (MySQL, HeidiSQL)  
-- [x] **Docker**  
-- [x] **Git**
-- [x] **Linux**
+## Experience
 
-**ML/Data Science**  
-- [x] **Basic ML**
-- [x] **GANs** (EfficientNetBS, TensorFlow)  
-- [x] **Diffusion models**
-- [x] **NLP**
-- [x] **RAG Pipelines**  
-- [x] **XGBoost/LightGBM**
----
+**T-Bank — ML Engineer** *(Aug 2025 — present)*  
+Classification and recommendation models on gradient boosting.
+Uplift / causal-inference modeling, A/B experiment design, impact analysis
+on key business metrics. Shared Python libraries, data-collection pipelines.
 
-## Achievements:  
-🏆 **All-Russian School Olympiad in Informatics** (Winner, 2024)  
-🥈 **Open Programming Olympiad** (Prizewinner, 2023-24)  
-🎯 **Finalist**, All-Russian AI Olympiad (2023)  
+**T-Bank — ML Engineer Intern (NLP, retrieval & RAG)** *(Mar 2025 — Jul 2025)*  
+Vector and hybrid search for document retrieval, NLP preprocessing.
+RAG models connected to APIs and chatbots via FastAPI and async calls.
+Dockerized pipelines, latency optimization for cloud deployment.
+
+**T-Bank — ML Developer Intern** *(Jun 2024 — Aug 2024)*  
+Automatic question clustering to automate operator–user interactions
+through a Telegram bot. Model selection, text preprocessing, statistical
+analysis of topic distributions. Docker-based deployment.
+
+**DoorHan Group — Software Developer** *(Jun 2023 — Mar 2025, with break)*  
+Backend / full-stack development in PHP, SQL, and JavaScript.
 
 ---
 
-## Let’s Connect:  
-- [x] [Instagram](https://www.instagram.com/kseniiashku)  
-- [x] [Telegram](https://t.me/KseniiaShk)
-- [x] [Telegram channel](https://t.me/KseniiaShku)  
+## Education
+
+**Yandex School of Data Analysis (YSDA)** — ML track *(2025 — present)*  
+All courses passed with the top grade. ML I & II, Statistics for ML,
+Recommender Systems, Reinforcement Learning, Game Theory, Algorithms
+& Data Structures, Python, NLP.
+
+**HSE University** — BSc, Faculty of Computer Science *(2024 — present)*
+
+**Kolmogorov Boarding School, MSU (AESC)** *(2022 — 2024)*  
+Advanced informatics, physics, and mathematics.
+
+---
+
+## Stack
+
+**Languages** — Python (primary), C++, SQL, Linux  
+**ML** — gradient boosting (CatBoost, XGBoost, LightGBM), classification,
+recommender systems, ranking, uplift & causal modeling, feature engineering,
+scikit-learn, PyTorch, NumPy, Pandas, SciPy  
+**Experimentation** — A/B testing, experiment design, applied statistics  
+**MLOps** — Git, Docker, PostgreSQL / MySQL, async, cloud deployment  
+**Also** — NLP, RAG & vector search, reinforcement learning, game theory
+
+---
+
+## Achievements
+
+- Winner, All-Russian School Olympiad in Informatics (2024); prizewinner (2023)
+- Silver & bronze medalist, All-Russian Team Programming Olympiad — ВКОШП (2022, 2023)
+- Finalist, All-Russian Olympiad in Artificial Intelligence (2023)
+- 2nd place, AI Challenge hackathon, student track (2025)
+- Codeforces Master, max 2228 ([KseniaShk](https://codeforces.com/profile/KseniaShk))
+
+---
+
+## Contact
+
+Telegram [@KseniiaShk](https://t.me/KseniiaShk) · [ksshkuleva@gmail.com](mailto:ksshkuleva@gmail.com)
