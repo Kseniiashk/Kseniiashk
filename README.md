@@ -46,7 +46,7 @@ PostgreSQL, Docker.
 Solution code and demo on Hugging Face Spaces.
 
 **Smaller projects on Hugging Face Spaces:**
-- [Cats vs Dogs classifier](https://huggingface.co/spaces/Kseniiashk/CatDogs/tree/main) — image classification demo.
+- [Cats vs Dogs classifier](https://huggingface.co/spaces/Kseniiashk/CatDogs) — image classification demo.
 - [YouTube comment generator](https://huggingface.co/spaces/Kseniiashk/youtube-comment-generator) — NLP generation demo.
 
 ---
