@@ -42,7 +42,12 @@ LLM + RAG assistant for incident analysis. Led the ML, prompt-engineering
 and RAG pipeline: Python, Qdrant vector search, LLM via OpenRouter,
 PostgreSQL, Docker.
 
-**[AI Challenge — Apteka track](https://huggingface.co/spaces/Kseniiashk/apteka_aiijc/tree/main)** — hackathon, 2nd place (student track, 2025). Solution code and demo on Hugging Face Spaces.
+**[AI Challenge — Pharmacy track](https://huggingface.co/spaces/Kseniiashk/apteka_aiijc/tree/main)** — hackathon, 2nd place (student track, 2025)
+Solution code and demo on Hugging Face Spaces.
+
+**Smaller projects on Hugging Face Spaces:**
+- [Cats vs Dogs classifier](https://huggingface.co/spaces/Kseniiashk/CatDogs/tree/main) — image classification demo.
+- [YouTube comment generator](https://huggingface.co/spaces/Kseniiashk/youtube-comment-generator) — NLP generation demo.
 
 ---
 
